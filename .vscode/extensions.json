@@ -1,0 +1,20 @@
+{
+  // VSCode 推荐插件列表
+  "recommendations": [
+    // Vue 3 开发必需
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+
+    // 代码格式化
+    "esbenp.prettier-vscode",
+
+    // 代码检查
+    "dbaeumer.vscode-eslint",
+
+    // Git 增强
+    "eamodio.gitlens",
+
+    // 图标主题（可选，让文件列表更好看）
+    "vscode-icons-team.vscode-icons"
+  ]
+}
